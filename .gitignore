@@ -3,3 +3,9 @@ lib/cachedir
 .settings/
 gensrc/
 classes/
+beans.xsd
+items.xsd
+build.xml
+extensioninfo.xsd
+platformhome.properties
+scriptlanguages-testclasses.xml
