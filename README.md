@@ -6,4 +6,6 @@ clone
 
 Add extension to localextensions.xml
 
+Run: ant all
+
 Run a system update
