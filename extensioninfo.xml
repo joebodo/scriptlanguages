@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<extensioninfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="extensioninfo.xsd">
+
+	<extension abstractclassprefix="Generated" classprefix="Scriptlanguages" jaloLogicFree="true"
+		managername="ScriptlanguagesManager" managersuperclass="de.hybris.platform.jalo.extension.Extension"
+		name="scriptlanguages" usemaven="true">
+
+		<coremodule generated="true" manager="com.loopintegration.scriptlanguages.jalo.ScriptlanguagesManager"
+			packageroot="com.loopintegration.scriptlanguages" />
+
+	</extension>
+
+</extensioninfo>

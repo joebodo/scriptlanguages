@@ -1,0 +1,9 @@
+#Ant properties
+#Fri Nov 08 11:27:15 CET 2019
+builddate=20191108 1127
+description=scriptlanguages
+name=scriptlanguages
+releasedate=20181129 1417
+vendor=hybris
+version=1811.16
+version.api=1811
