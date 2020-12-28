@@ -6,6 +6,8 @@
 		<enumtype code="ScriptType" generate="false" autocreate="false">
 			<value code="KOTLIN" />
 			<value code="PYTHON" />
+			<value code="SCALA" />
+			<value code="RUBY" />
 		</enumtype>
 	</enumtypes>
 

@@ -12,4 +12,10 @@
 
 	<bean id="kotlinEngine" class="de.hybris.platform.scripting.engine.internal.impl.DefaultScriptEngineType"
 		c:name="kotlin" c:fileExtension="kts" c:mime="text/kotlin" />
+
+	<bean id="scalaEngine" class="de.hybris.platform.scripting.engine.internal.impl.DefaultScriptEngineType"
+		c:name="scala" c:fileExtension="scala" c:mime="application/x-scala" />
+
+	<bean id="rubyEngine" class="de.hybris.platform.scripting.engine.internal.impl.DefaultScriptEngineType"
+		c:name="ruby" c:fileExtension="rb" c:mime="application/x-ruby" />
 </beans>
