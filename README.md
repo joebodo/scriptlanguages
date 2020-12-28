@@ -1,5 +1,5 @@
 # scriptlanguages
-Extra scripting languages for Hybris - Kotlin, Python
+Extra scripting languages for Hybris - Kotlin, Python, Ruby, Scala
 
 ## Setup
 clone
